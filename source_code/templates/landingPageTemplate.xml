@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<messages>
+
+<message id="landing-page-template">
+    <div class='w-66 container mt-5 p-2'>
+        <div class='row justify-content-center'>
+            <div
+             class='col-11 border rounded-2 shadow col-md-8 col-lg-6 px-4'
+             >
+                <div class='row py-2 text-center'>
+                    <h1>Advising Appointment Scheduling System</h1>
+                </div>
+                <div class='row py-2 justify-content-center'>
+                    <div class='w-50'>
+                        ${login-button class="w-100"}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</message>
+
+</messages>

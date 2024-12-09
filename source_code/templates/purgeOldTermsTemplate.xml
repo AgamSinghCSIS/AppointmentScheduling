@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<messages>
+
+<message id="purge-old-terms-template">
+    <div class='container my-5 p-2'>
+        <div class='row justify-content-center'>
+            <div
+             class='col-11 border rounded-2 shadow px-4 py-2'
+            >
+                <div class='row py-2'>
+                    <div
+                     class='col-3 d-flex align-items-center
+                            justify-content-center'
+                    >
+                        <a href='#/admin' class='btn btn-light'>
+                            Back
+                        </a>
+                    </div>
+                    <div
+                     class='col-6 d-flex align-items-center
+                            justify-content-center text-center'
+                    >
+                        <h2 class='m-0 p-0'>Purge Old Terms</h2>
+                    </div>
+                    <div
+                     class='col-3 d-flex align-items-center
+                            justify-content-center'
+                    >
+                        ${purge-button class='btn-danger'}
+                    </div>
+                </div>
+                <div class='row py-2'>
+                    <table class='table'>
+                        <thead>
+                            <th width='33%' scope='col'>Title</th>
+                            <th width='34%' scope='col'>Start</th>
+                            <th width='33%' scope='col'>End</th>
+                        </thead>
+                        <tbody>
+                            ${term-container}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</message>
+
+<message id="admin-current-term-partial">
+    <tr class='table-info'>
+        <td class='px-1'>${title}</td>
+        <td class='px-1'>${start-date}</td>
+        <td class='px-1'>${end-date}</td>
+    </tr>
+</message>
+
+<message id="admin-term-partial">
+    <tr>
+        <td class='px-1'>${title}</td>
+        <td class='px-1'>${start-date}</td>
+        <td class='px-1'>${end-date}</td>
+    </tr>
+</message>
+
+<message id='admin-purge-modal'>
+    <div
+     class='row py-2 px-5 d-flex justify-content-center align-items-center
+            text-center'
+    >
+        <p class='m-0 p-0 fs-4'>
+            Are you sure you want to purge old
+            terms and all associated data?
+        </p>
+    </div>
+    <div class='row py-2'>
+        <div class='col-6 d-flex justify-content-center align-items-center'>
+            ${confirm-button class='btn-danger'}
+        </div>
+        <div class='col-6 d-flex justify-content-center align-items-center'>
+            ${cancel-button}
+        </div>
+    </div>
+</message>
+
+</messages>

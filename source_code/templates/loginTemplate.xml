@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<messages>
+
+<message id="login-page-template">
+    <div class='w-66 container mt-5 p-2'>
+        <div class='row justify-content-center'>
+            <div
+             class='col-11 border rounded-2 shadow col-md-8 col-lg-6 px-4 pt-2'
+             >
+                <div class='row py-2 text-center'>
+                    <div class='col-3 d-flex align-items-center'>
+                        <a href='#/' class='btn btn-light'>Back</a>
+                    </div>
+                    <div class='col-6'>
+                        <h3>Advising and Scheduling</h3>
+                    </div>
+                </div>
+                ${auth-widget}
+            </div>
+        </div>
+    </div>
+</message>
+
+<message id="Wt.Auth.template.login">
+    <div class='span8 offset2 Wt-auth-login'>
+        <div class='d-flex justify-content-center'>
+            <h3>Login</h3>
+        </div>
+        <div class='form-horizontal'>
+            ${<if:passwords>}
+            ${block:Wt.Auth.field3 user-name user-name-label user-confirm-email}
+            ${block:Wt.Auth.field password}
+            ${block:Wt.Auth.field remember-me}
+            ${</if:passwords>}
+            <div class='form-actions'>
+                <p>${login class='btn-primary'}</p>
+                <p>${lost-password class='btn-link'}</p>
+            </div>
+        </div>
+    </div>
+</message>
+
+</messages>
+

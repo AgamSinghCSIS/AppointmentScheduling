@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<messages>
+
+<message id="student-make-appointments-template">
+    <div class='w-90 container-fluid my-5 p-2'>
+	<div class='row justify-content-center'>
+            <div
+             class='col-11 border rounded-2 shadow px-4 py-2'
+            >
+        	<div class='row py-2'>
+		    <div class='col-3'>
+	    	        ${back-button}
+		    </div>
+		</div>
+                <div class='row py-2'>
+                    <div
+                     class='col-12 d-flex align-items-center
+                            justify-content-center text-center'
+                    >
+                        <h2 class='m-0 p-0'>Make Appointment</h2>
+                    </div>
+                </div>
+                <div class='row py-2 justify-content-between'> 
+                    <div class='col-5'> 
+                        ${make-appointment-calendar}
+                    </div>
+                    <div class='col-5'> 
+			<div class='row py-2'>
+			    <label class='form-label' for='${id:advisor-selection}'>
+			        <b>Advisor Selection:</b>
+			    </label>
+			</div>
+                        <div>
+			    ${advisor-selection}
+			</div>
+			<div class='row py-2'>
+                            <label class='form-label' for='${id:available-appointment-times}'>
+                                <b>Advisor Availability:</b>
+                            </label>
+			</div>
+			<div class='mh-100 overflow-auto'>
+                            ${available-appointment-times}
+			</div>
+                    </div>
+                </div>
+                <div class='row py-2 justify-content-between'> 
+                    <div class='col-6'> 
+                        <label class='form-label' for='${id:appointment-title}'>
+                            <b>Appointment Title:</b>
+                        </label>
+                        ${appointment-title}
+                    </div>
+                    <div class='col-6'> 
+                        <label class='form-label' for='${id:appointment-description}'>
+                            <b>Appointment Description:</b>
+                        </label>
+                        ${appointment-description}
+                    </div>
+                </div>
+                <div class='row py-2 justify-content-between'> 
+                    <div class='col-4'> 
+                        <label class='form-label' for='${id:start-appointment-time}'>
+                            <b>Start Time:</b>
+                        </label>
+                        ${start-appointment-time}
+                    </div>
+                    <div class='col-4'> 
+                        <label class='form-label' for='${id:end-appointment-time}'>
+                            <b>End Time:</b>
+                        </label>
+                        ${end-appointment-time}
+                    </div>
+                    <div class='col-2 d-flex align-items-end'> 
+                        ${book-appointment-button}
+                    </div>
+                </div>
+                <div class='row py-2 justify-content-center'> 
+                    <div class='col-5'> 
+                        <label class='form-label' for='${id:appointment-details}'>
+                            <b>New Appointment Details:</b>
+                        </label>
+			<div>
+			    ${appointment-details}
+			</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</message>
+
+</messages>

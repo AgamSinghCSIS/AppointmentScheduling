@@ -1,0 +1,278 @@
+Change Management Team - Pull Request Technical Review Meeting Agenda
+Date: 04/02/2024
+Attendees: James, Stephen, Landan
+
+- Discussion of covered course content on technical reviews
+- Discussion of what should be included on the review checklist
+- Cooperative construction of the checklist
+- Addition of checklist to SRS, adding SRS and meeting notes to SDL
+
+Minutes of Above Meeting:
+Attendees: James, Stephen
+
+- Relevant course content discussed
+- Discussion and construction of source code review checklist
+- Discussion and construction of documentation review checklist
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AASS Team - Design Document Meeting Agenda
+Date: 04/05/2024
+Attendees: James, Cooper, Aiden, Joshua
+
+- Discussion of AASS architecture
+- Discussion of Decomposition Description
+- Discussion of Design Rationale
+- Discussion of Data Description
+- Discussion of Data Dictionary
+- SHORT discussion of Component Design
+- Discussion of future work & responsibility delegation
+- OPTIONAL discussion of style guide
+
+Minutes of Above Meeting:
+Attendees: James, Joshua, Cooper, Aidan
+
+- Discussion of style guide
+- Discussed system architecture
+- Discussed Design Rationale
+- Discussed Data Description
+- Discussed Data Dictionary
+- Discussed Decomposition Description
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AASS Team - Design Document Meeting Cont. Agenda
+Date: 04/06/2024
+Attendees: open attendance
+
+- Continuation of previous meeting's objectives
+- Discussion of style guide
+
+Minutes of Above Meeting:
+Attendees: Joshua, James, Cooper, Landan, Aidan
+
+- Continuation of previous meeting's talking points
+- Discussion of style guide
+- Discussion of Decompostition Description
+- Dicussion and creation of UML diagrams
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AASS Team - Design Document Meeting Cont. Agenda
+Date: 04/10/2024
+Attendees: open attendance
+
+- Continuation of work on the Design Document
+
+Minutes of Above Meeting:
+Attendees: Cooper, James, Wyatt, Avinash, Anshika
+
+- Discussed what work has been done and what still needs to be done
+- Continued work on the Design Document
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AASS Team - Design Document Final Meeting Agenda
+Date: 04/12/2024
+Attendees: James, Cooper, Aidan
+
+- Finalize the first draft of the Design Document
+
+Minutes of the Above Meeting:
+Attendees: James, Cooper, Aidan
+
+- Worked on finalizing the first draft of the Design Document
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Software Quality Assurance Test Cases Meeting Agenda
+Date: 04/12/2024
+
+Attendees: Austin, Joshua, Christelle 
+
+- Discusion of Next weeks plan regarding creating Use cases
+- Discusion of Activities regarding the design document
+- Discusion of additions to the SQA Plan
+- Discusion of Testing template for test results
+
+Minutes of Above Meeting:
+Attendees: Austin, Joshua
+
+Started time: 7:05 pm 
+End time: 8:03 pm
+
+- Discussed the plan for the next couple of days
+- Discussed how the user scenarios will be created
+- Discussed revisions to the SQA plan
+- Discussed the addition of adding Navigational testing
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Back End Team - Design Document Review
+Date: 04/12/2024
+Attendees: Wyatt, Cooper, Agampaul, Anshika, Ethan, Avinash
+
+- Discussing and reviewing software design document.
+- Discussion of learning materials of WT DBO.
+
+Minutes of Above Meeting:
+Attendees: Wyatt, Cooper, Agampaul, Anshika, Avinash
+
+- Discussed and reviewed the software design document and spent additional time reviewing back end applicable sections of the design document.
+
+- Discussed WT DBO tutorial’s, and relevant learning material to familiarize ourselves with the DBO.
+	- "A HANDS-ON INTRODUCTION TO WT::DBO"
+	- Wt Dbo Reference Page
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Change Management Team - Design Document Review
+Date: 04/13/2024
+Attendees: James, Stephen, Landan
+
+- Review of design document
+- Discussion of individual responsibilities
+
+Minutes of Above Meeting:
+Attendees: James, Stephen, Landan
+
+- Discussion of training material records
+- Discussion of individual responsibilities
+- Review of design document
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Front End Team - Design Meeting
+Date: 04/13/2024
+Attendees: Sarah, Aidan, Gungun
+
+- Review of design document
+- Discussion of Bootstrap
+- Discussion of whether or not to write code on the CS server
+- Review of the change management plan
+- Delegation of individual responsibilities
+- Creation of a work timeline
+- Discussion of next meeting time
+
+Minutes of Above Meeting:
+Attendees: Sarah, Aidan, Gungun
+
+- Reviewed the design document
+- Discussed Bootstrap documentation and agreed upon use of Bootstrap
+- Agreed to write all source code on the CS server
+- Reviewed change management plan
+- Delegated individual responsibilities
+- Created work timeline
+- Did not agree upon next meeting time
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Back End Team - Initial Implementation Meeting
+Date: 04/19/2024
+Attendees: Wyatt, Cooper, Agampaul, Anshika, Ethan, Avinash
+
+- Discuss initial implementation plan
+
+Minutes of Above Meeting:
+Attendees: Wyatt, Cooper, Agampaul, Anshika, Avinash
+
+- Discussed kanban board and issue tracking details
+
+- Discussed and reviewed current issues in Gitea 
+	- Models, interfaces, authentication
+
+- Next meeting date and time agreed upon
+	- Sunday, April 21, 12:30
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Front End Team - Implementation Meeting
+Date: 04/19/2024
+Attendees: Aidan, Cooper, Sarah, Gungun
+
+- Discuss initial implementation plan
+- Discuss and pick a color scheme
+
+Minutes of Above Meeting:
+Attendees: Cooper, Sarah, Gungun
+
+- Covered questions on where and how to begin implementation.
+- Decided on a color scheme (Grey and blue).
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Software Quality Assurance Integration Test Discussion Agenda
+Date: 04/29/2024
+
+Atendees: Austin, Joshua, Christelle
+
+- Discussion Plan regarding Integration Testing
+- Discussion Testing Template Outline
+- Discussion any gitea PR approval issues
+
+Minutes of Above Meeting:
+Attendees: Austin, Joshua
+
+- Discussed Plan regarding Integration Testing
+- Discussed Testing Template Layout
+- Discussed the gitea issues regarding the SQA Plan
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AASS Team - Final Week Development Meeting
+Date: 05/01/2024
+Required Attendees: all
+
+- Clarification on how to complete issues
+- View implementation info
+- Review of project schedule
+- Pair programming availability schedule
+
+Minutes of Above Meeting:
+Actual Attendees: Cooper, James, Wyatt, Ethan, Agampaul, Austin, Joshua, 
+                  Landan, Cristelle, Avinash, Anshika, Aidan, Sarah
+
+- Discussed how to do/close issues
+- Discussed view implementation details
+- Discussed model implementation details
+- Discussed project schedule
+- Discussed availability for pair programming
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AASS Team - Project Work Day
+Date: 05/02/2024
+Required Attendees: open attendance
+
+- Continue work on project
+
+Minutes of Above Meeting:
+Actual Attendees: Cooper, James, Landan, Wyatt, Ethan, Avinash, Austin
+
+- Continued work on project
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AASS Team - Project Work Day Cont.
+Date: 05/03/2024
+Required Attendees: open attendance
+
+- Continue work on project
+
+Minutes of Above Meeting:
+Actual Attendees: Cooper, James, Landan, Ethan, Sarah
+
+- Continued work on project
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AASS Team - Project Work Day Cont. (Again)
+Date: 05/04/2024
+Required Attendees: open attendance
+
+- Continue work on project
+
+Minutes of Above Meeting:
+Actual Attendees: Cooper, James, Landan
+
+- Continued work on project
